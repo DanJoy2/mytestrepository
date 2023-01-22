@@ -11,3 +11,5 @@
 
 
 ## Confguration commands
+
+- git config --global
