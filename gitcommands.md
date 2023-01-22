@@ -14,3 +14,4 @@
 
 - git config --global
 - git remote add origin https://TOKEN@URL
+- git remote remove NAME_OF_ORIGIN
